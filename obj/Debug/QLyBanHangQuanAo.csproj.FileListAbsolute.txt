@@ -1,0 +1,14 @@
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\bin\Debug\QLyBanHangQuanAo.exe.config
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\bin\Debug\QLyBanHangQuanAo.exe
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\bin\Debug\QLyBanHangQuanAo.pdb
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.csprojAssemblyReference.cache
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.Form1.resources
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.Properties.Resources.resources
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.csproj.GenerateResource.cache
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.csproj.CoreCompileInputs.cache
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.exe
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.pdb
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.FrmSanPham.resources
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.frmTheLoai.resources
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.FrmChatLieu.resources
+D:\Trang\QLyBanHangQuanAo\QLyBanHangQuanAo\obj\Debug\QLyBanHangQuanAo.FrmCo.resources
